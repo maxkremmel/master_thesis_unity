@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "packages": {
+    "com.microsoft.mixedreality.openxr": {
+      "tarball": {
+        "hash": "dfc0305df3e4",
+        "mtime": 1684335270000,
+        "size": 9382536,
+        "localPath": "/home/max/Documents/Unity/master_thesis_unity/Packages/MixedReality/com.microsoft.mixedreality.openxr-1.8.0.tgz"
+      }
+    }
+  }
+}
